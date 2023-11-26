@@ -77,6 +77,6 @@ Those actions can also be manipulated to create more complicated card effects. T
         }
     }
 ```
-Most actions also call specific functions on all cards that are currently in the game. "Whenever" functions are usually called before and "after" functions after the actual action effect resolves. In this case I overwrite "WheneverDealDamage" function and reduce the damage it deals by 10, if the owner Mercenary of the buff gets targeted, in a "whenever function", which reduces the damage before it gets applied to the target.
+Most actions also call specific functions on all cards that are currently in the game. "Whenever" functions are usually called before and "after" functions after the actual action effect resolves. In this case I overwrite "WheneverDealDamage" function and reduce the damage it deals by 10, if the owner Mercenary of the buff gets targeted, which reduces the damage before it gets applied to the target.
 
 In short: The action System is one of the main Systems that makes it easy and fast to create reliable new cards with all kinds of different effects in a game designer friendly way.
