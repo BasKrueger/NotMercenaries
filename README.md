@@ -3,7 +3,7 @@
     <img src="readme/Banner.PNG" alt="Not Mercenaries Banner"><br>
 </p>
 
-"Not Mercenaries" is a prototype clone of Hearthstones ["Mercenaries"](https://www.youtube.com/watch?v=JDthFgkAPUE) modes combat System. This projects main purpose was to challange myself by creating a complicated turn based combat system that's also easy to expand with new cards and mechanics in the future.
+"Not Mercenaries" is a prototype clone of Hearthstones ["Mercenaries"](https://www.youtube.com/watch?v=JDthFgkAPUE) modes combat System that I created during my <b>3. Semester </b> at the [S4G-School for Games](https://www.school4games.net/). This projects main purpose was to challange myself by creating a complicated turn based combat system that's also easy to expand with new cards and mechanics in the future.
 
 # Gameplay
 
