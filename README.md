@@ -14,7 +14,7 @@ https://github.com/BasKrueger/NotMercenaries/assets/147401575/69f8dc9c-23eb-45ac
 # How to run
 Clone this repository and open the project folder using at least Unity Version 2021.3.1. 
 
-# Highlight: Expandability
+# Highlight: Modularity
 ```
 public class CrusadersBlow : AbstractAbility
     {
